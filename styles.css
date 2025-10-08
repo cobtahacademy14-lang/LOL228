@@ -411,11 +411,15 @@ header {
     margin-bottom: 45px;
 }
 
-#headerNews{
-
-
-    background-image: url('https://imgs.callofduty.com/content/dam/atvi/callofduty/cod-touchui/guides/home/bo7/beta/LP_Hero_TEMPLATE_HQ_Guides_BO7Beta_DesktopBG.webp')
+#headerNews {
+    background-image: url("https://imgs.callofduty.com/content/dam/atvi/callofduty/cod-touchui/guides/home/bo7/beta/LP_Hero_TEMPLATE_HQ_Guides_BO7Beta_DesktopBG.webp");
 }
-#nav{
+#nav {
     margin-left: 0;
 }
+.newsDiv {
+
+    display: flex;
+    width: 50%
+}
+
