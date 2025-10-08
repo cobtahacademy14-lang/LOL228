@@ -1,0 +1,421 @@
+.y {
+    background-color: #272727;
+    display: flex;
+    justify-content: space-between;
+    width: 82%;
+    margin: 0 auto;
+    padding: 0 5px;
+    align-items: center;
+    height: 6.1vh;
+}
+.t {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+    color: white;
+    margin: 0;
+    height: 100%;
+}
+.t li {
+    align-content: center;
+}
+.w {
+    background-color: #1b1b1b;
+    margin: 0;
+}
+.q {
+    width: 65%;
+}
+header {
+    background-image: url("https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/hub/v2023/hero/2025/06/060825_CodHP_Hero_Desktop-XLG.webp");
+    height: 80vh;
+    background-position: center;
+    background-size: cover;
+    padding-top: 7px;
+}
+
+.x {
+    width: 50%;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    margin: 110px 76px;
+}
+.x p {
+    margin: 15px 0;
+}
+.cl {
+    text-decoration: none;
+    color: white;
+}
+.t li:hover {
+    background-color: #1c1b1b;
+}
+.cla {
+    text-decoration: none;
+    color: white;
+    background-color: #c96743;
+    padding: 5px 3px;
+}
+.cla:hover {
+    background-color: #853011;
+}
+.c {
+    text-decoration: none;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    width: 80px;
+    align-items: center;
+}
+
+.c img {
+    width: 25px;
+    height: 25px;
+}
+.audi {
+    color: white;
+}
+.lol {
+    display: flex;
+    justify-content: space-evenly;
+    background: linear-gradient(to top, #1b1b1b, #2e2e2e);
+    padding: 30px;
+}
+.boom {
+    text-decoration: none;
+    color: white;
+    background-color: #55830e;
+    padding: 5px 30px;
+    font-size: 24px;
+    text-align: center;
+}
+.ol {
+    font-size: 20px;
+}
+.boom:hover {
+    background-color: #013e01;
+}
+.kolo {
+    width: 63%;
+}
+.vaka {
+    height: 30vh;
+    background-image: url("https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/hub/v2023/touts/2025/08/COD-HP_Primary-Tout_Desktop-LG.webp");
+    border: 0.5px solid #5f5f5f;
+    background-position: center;
+    background-size: cover;
+    align-content: center;
+    padding-left: 45px;
+}
+.vaka h2 {
+    color: white;
+    font-size: 3rem;
+    font-weight: 1000;
+    margin: 0;
+}
+.vaka p {
+    color: white;
+    width: 60%;
+}
+.diving {
+    width: 47%;
+    align-content: flex-end;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    background-position: center;
+    border: 0.5px solid #5f5f5f;
+    background-size: cover;
+    margin-right: 20px;
+    background-image: url("https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/hub/v2023/touts/2025/08/COD-HP_Secondary-Tout_WZ_S5.webp");
+}
+.mmt {
+    background-image: url("https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/hub/v2023/touts/2025/08/COD-HP_Secondary-Tout_BO6_S5.webp");
+    width: 47%;
+    border: 0.5px solid #5f5f5f;
+    background-position: center;
+    background-size: cover;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    align-content: flex-end;
+    margin-left: 20px;
+}
+.dis {
+    display: flex;
+    height: 30vh;
+    justify-content: space-between;
+    margin-top: 37px;
+}
+.pading {
+    padding: 0 40px;
+}
+.moo {
+    width: 34%;
+    padding-left: 40px;
+}
+.kar {
+    height: 25vh;
+    background-position: center;
+    background-size: cover;
+    background-image: url("https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/guides/mp-maps/wmd/COD-BO6-MAPS-CORE-WMD-TOUT.jpg");
+}
+.flex {
+    display: flex;
+}
+.you {
+    color: white;
+    font-size: 2.5rem;
+    margin: 0;
+}
+.your {
+    font-size: 1.799rem;
+    color: white;
+    margin: 0;
+}
+.one {
+    height: 7vh;
+    background-position: center;
+    background-size: cover;
+    width: 30%;
+    background-image: url("https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/guides/mp-maps/exchange/COD-BO6-MAPS-CORE-EXCHANGE-TOUT.jpg");
+}
+.two {
+    height: 7vh;
+    background-position: center;
+    background-size: cover;
+    width: 30%;
+
+    background-image: url("https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/guides/mp-maps/runway/COD-BO6-MAPS-CORE-RUNWAY-TOUT.jpg");
+}
+.three {
+    height: 7vh;
+    background-position: center;
+    background-size: cover;
+    width: 30%;
+
+    background-image: url("https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/guides/games/blackops6/zombies/gobblegums/BO6-ZM-GG-TOUT.jpg");
+}
+.foure {
+    color: white;
+    font-size: 1.266656574658665645736465rem;
+    margin: 0;
+}
+.five {
+    color: white;
+    font-size: 2rem;
+    margin: 0;
+}
+.six {
+    color: white;
+    font-size: 0.9rem;
+    margin: 0;
+}
+.seven {
+    color: white;
+    font-size: 1.3rem;
+}
+.eight {
+    display: flex;
+    align-items: center;
+}
+.rust {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.buton {
+    font-size: 0.9rem;
+    width: 45%;
+    background-color: transparent;
+    border: 0.3px solid #6a6a6a;
+    color: white;
+    padding: 10px;
+    margin-top: 40px;
+    text-align: center;
+    text-decoration: none;
+}
+.buton:hover {
+    background-color: #343434;
+}
+.mersedes {
+    color: white;
+    font-size: 2.6rem;
+}
+
+.reno {
+    width: 100%;
+    align-content: flex-end;
+    background-size: cover;
+    background-position: center;
+    height: 76%;
+    border-radius: 10px 10px 0 0;
+    object-fit: fill;
+}
+#img1 {
+    background-image: url("https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/store/games/bo7/Chimera_COD-HP_GTG.webp");
+}
+.reno img {
+    width: 100%;
+}
+.card {
+    height: 40vh;
+    width: 20%;
+    margin: 25px;
+    box-shadow: 0 0 20px black;
+    transition: 0.7s;
+    border-radius: 0 0 10px 10px;
+}
+
+.xiaomi {
+    height: 24%;
+    width: 100%;
+    background-color: #2e2d2d;
+    border-radius: 0 0 10px 10px;
+    padding-top: 10px;
+}
+
+.xiaomi p {
+    color: white;
+    font-size: 1.2rem;
+    text-align: left;
+    margin: 0;
+}
+.xiaomi h2 {
+    color: white;
+    font-size: 1.4rem;
+
+    margin: 0;
+    text-align: left;
+}
+#img2 {
+    background-image: url("https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/store/games/wz/overview/bo6-season-3/COD-HP_WZ_Get-The-Game.webp");
+}
+#img3 {
+    background-image: url("https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/store/games/listings/GamesPLP_CODM.webp");
+}
+#img4 {
+    background-image: url("https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/store/games/listings/BO6_PLPCard_Hero.webp");
+}
+.fourediv {
+    display: flex;
+    justify-content: center;
+}
+.card:hover {
+    box-shadow: 0 0 40px black;
+}
+.reno:hover {
+    object-fit: cover;
+}
+
+.seemore:hover {
+    background-color: #343434;
+}
+.moreinstor {
+    text-align: center;
+    padding-top: 30px;
+}
+.seemore {
+    font-size: 0.9rem;
+    width: 45%;
+    background-color: transparent;
+    border: 0.3px solid #6a6a6a;
+    color: white;
+    padding: 10px;
+    margin-top: 40px;
+    text-align: center;
+    text-decoration: none;
+}
+.distation {
+    color: white;
+    font-size: 0.8rem;
+}
+.cockis {
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.tralalelo {
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.gorila {
+    padding-top: 50px;
+}
+.footerA {
+    color: #bebebe;
+    text-decoration: none;
+    font-size: 0.9rem;
+    padding: 0 15px;
+}
+.divFOOTER a {
+    border-right: 1px solid white;
+}
+#lastA {
+    border: 0;
+}
+
+.divFOOTER {
+    padding: 20px;
+    text-align: center;
+}
+.imgFOOTER li img {
+    width: 115px;
+    margin: 0 50px;
+}
+.imgFOOTER {
+    display: flex;
+
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 50px;
+}
+.threesection img {
+    height: 120px;
+}
+.threesection {
+    text-align: center;
+}
+.threesection-p p {
+    color: white;
+    text-align: center;
+}
+.threesection-b button {
+    background-color: transparent;
+    color: white;
+    border-radius: 4px;
+    padding: 15px;
+    font-size: 1rem;
+    border: 0.5px solid white;
+}
+.threesection-b {
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.threes-img {
+    text-align: center;
+    padding-top: 20px;
+}
+.gradient {
+    width: 100%;
+    height: 1px;
+    background: linear-gradient(
+        to right,
+        rgba(0, 0, 0, 0) 1%,
+        rgba(88, 88, 88, 0.5) 12%,
+        #707070 50%,
+        rgba(88, 88, 88, 0.5) 88%,
+        rgba(0, 0, 0, 0) 100%
+    );
+    margin-bottom: 45px;
+}
+
+#headerNews{
+
+
+    background-image: url('https://imgs.callofduty.com/content/dam/atvi/callofduty/cod-touchui/guides/home/bo7/beta/LP_Hero_TEMPLATE_HQ_Guides_BO7Beta_DesktopBG.webp')
+}
+#nav{
+    margin-left: 0;
+}
