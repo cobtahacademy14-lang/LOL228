@@ -417,36 +417,46 @@ header {
 #nav {
     margin-left: 0;
 }
-<<<<<<< HEAD
 .newsDiv h1 {
     font-size: 150px;
     color: white;
     margin-bottom: 10px;
-
 }
-.sectionNews{
+.sectionNews {
     display: flex;
     justify-content: right;
+    width: 100%;
 }
-.newsDiv{
+.newsDiv {
     width: 50%;
 }
-.newsDiv p{
+.newsDiv p {
     color: white;
     font-size: 1.5rem;
-
 }
-.imgDIV{
+.imgDIV {
     width: 50%;
 
     display: flex;
     justify-content: end;
 }
-=======
-.newsDiv {
-
-    display: flex;
-    width: 50%
+.twoSEC-News {
+    background-color: #2e2e2e;
 }
-
->>>>>>> LOL228/master
+.twoMAIN-News h2 {
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 2.5rem;
+    margin: 0;
+    padding-bottom: 30px;
+}
+.IMG-NEWS {
+    width: 75%;
+    height: 45vh;
+    padding-left: 12.5%;
+    padding-right: 12.5%;
+}
+.twoMAIN-NEWS {
+    text-align: center;
+}
