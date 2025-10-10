@@ -417,6 +417,7 @@ header {
 #nav {
     margin-left: 0;
 }
+<<<<<<< HEAD
 .newsDiv h1 {
     font-size: 150px;
     color: white;
@@ -441,3 +442,11 @@ header {
     display: flex;
     justify-content: end;
 }
+=======
+.newsDiv {
+
+    display: flex;
+    width: 50%
+}
+
+>>>>>>> LOL228/master
