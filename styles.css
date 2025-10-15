@@ -452,11 +452,23 @@ header {
     padding-bottom: 30px;
 }
 .IMG-NEWS {
-    width: 75%;
-    height: 45vh;
-    padding-left: 12.5%;
-    padding-right: 12.5%;
+    width: 80%;
+    height: 50vh;
+    margin: 0 auto;
+
+    padding-left: 9%;
+    padding-right: 9%;
 }
 .twoMAIN-NEWS {
     text-align: center;
+}
+.divSEC {
+    background-image: url("https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/guides/home/game-selection/wz-card-2.webp");
+    height: 45vh;
+    width: 45%;
+    background-size: cover;
+    border-radius: 10px;
+}
+.underH2 {
+    border-radius: 10px;
 }
